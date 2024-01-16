@@ -1,4 +1,4 @@
-class board {
+class Board {
     // constructor that creates the board
     constructor() {
         this.board = this.createGraph();
@@ -22,7 +22,7 @@ class board {
     }
 }
 
-export default board;
+export default Board;
 
 
 /*  0 : ["0", "1", "2", "3", "4", ""5, "6", "7"]
